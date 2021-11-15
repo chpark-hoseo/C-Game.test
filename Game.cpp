@@ -115,6 +115,3 @@ void Game::clean()
  // delwin(m_win);
   endwin(); // Restore normal terminal behavior
 }
-
-
-

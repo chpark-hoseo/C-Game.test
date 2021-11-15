@@ -19,7 +19,7 @@ void Player::update()
 
 void Player::draw()
 {
-  mvprintw(playerY, playerX,"▲");
+  mvprintw(playerY, playerX, "▲");
   m_bullet.draw();
 }
 
